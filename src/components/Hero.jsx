@@ -11,7 +11,7 @@ export default function Hero({firstname, lastname, intro}) {
             <h1 className="font-bold !my-0">{"Bonjour et bienvenue" + "\u00A0👋"} <br/>
             {"je suis " + firstname + " " + lastname}</h1>
 
-            <p className="!my-2 text-left">{intro}</p>
+            <p className="!my-6 text-left">{intro}</p>
           </div>
           <Link activeClass="active" 
                   to="bio" 

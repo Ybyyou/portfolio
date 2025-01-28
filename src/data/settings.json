@@ -1,45 +1,62 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
-    "portrait" : "avatar.jpg",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "title" : "Portfolio de Younès Amar",
+    "lastname": "Amar",
+    "firstname": "Younès",
+    "portrait" : "photo.jpg",
+    "intro": "Appuie sur En savoir plus pour découvrir mon parcours, mes compétences et mes projets.",
+    "biography": "Salut 👋, J'ai décidé de morienter vers le BUT Métiers du Multimédia et de l'Internet après mon bac STI2D option système d'information et numérique. J'ai toujours aimé la créativité, la réflexion et les sciences mais plus précisément les domaines de la musique, les voyages et le sport. Grâce à ma formation je touche à de nombreux domaines, allant du développement Web à la communication et le marketing, en passant aussi par le graphisme et l'audiovisuel. Mon expérience, combinée à mon envie d'apprendre et de découvrir de nouvelles choses chaque jour, m'aide à développer mes connaissances dans différents domaines. En un temps relativement court, j'ai su maîtriser des outils variés. Les suites Affinity et Adobe pour des créations graphiques comme des affiches de festivals ou encore des projets personnels. FL Studio pour la production musicale afin de développer mon oreille musicale et développer ma passion en collaborant avec des artistes. Gantt Project pour la gestion de projets comme la réalisation d'une recommandation numérique ou encore un audit de communication numérique. DaVinci Resolve pour le montage comme des courts métrages ou encore un interview. En parallèle, je me suis perfectionné dans la programmation web avec HTML, CSS et JavaScript en effectuant des projets de sites web dont ce portfolio. Cette curiosité constante, ajoutée à ma détermination, me motive à donner le meilleur de moi-même pour atteindre mes objectifs, que ce soit dans mes études ou mes projets personnels. Ouvert, dynamique et prêt à relever de nouveaux défis. Je suis Younès, l'unique personne qui pourra vous suivre dans vos projets ! ",
     "cv" : "CV.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
             "school" : "IUT de Lannion, Université de Rennes",
-            "start" : 2023,
-            "end" : 2026
+            "start" : 2024,
+            "end" : 2027
         },
         {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
+            "name" : "Permis B",
+            "school" : "Lamballe Abyss Auto École (22)",
+            "start" : 2024
+        },
+        {
+            "name" : "Bac STI2D, option Système d'Information et Numérique",
+            "school" : "Lycée Sacré Coeur (22)",
             "start" : 2023
+        },
+        {
+            "name" : "Attestation SecNumAcadémie",
+            "school" : "domicile (22)",
+            "start" : 2023 
         }
     ],
     "interests": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "Production musicale",
+        "Création visuelle",
+        "Développement Web",
+        "Photographie",
+        "Voyages",
+        "Sport",
+        "Sciences",
+        "Jeux vidéo"
+        
     ],
     "projects": [
         {
-            "title": "Project 1 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Sonolux",
+            "context": "Le service de néonatologie de l'hôpital de Saint Brieuc est reconnu comme un acteur d'excellence au sein de la commission de réflexion et d'évaluation de l'environnement des nouveaux nées soutenue par des programmes qui vise à protéger le développement cérébral des enfants nés avant terme en limitant le stress lié à leur environnement et aux soins, tout en redonnant à leurs parents une place prépondérante à leurs côtés pendant l'hospitalisation .“Nuissances sonores en réanimation néonatale : impact d'un outil de monitorage”, la captation, la mesure et le traitement d'un signal sonore et/ou lumineux nécessitent la conception d'un outil adapté capable d'offrir une mesure fiable des données.",
+            "missions" : [" Conception, fabrication et mise en fonctionnement d'un outil de captation et d'analyse de signaux sonores et lumineux"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "skills": [
-                "3D",
-                "Dev Web"
+                "Anglais",
+                "Code arduino",
+                "3D"
             ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "link" : "https://sonolux-sacrecoeur22.fr/",
+            "picture": "sonolux.jpg"
         },
         {
-            "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Concevoir une recommandation de communication numérique ",
+            "context": "En tant que chargés de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.    ",
             "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "skills": [
@@ -47,17 +64,17 @@
                 "Comm"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "alwestfest.jpg"
         },
         {
             "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
             "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "missions" : ["Concevoir une recommandation marketing"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "skills": [
-                "Réseaux sociaux",
-                "UI/UX",
-                "Entrepreneuriat"
+                "Marketing",
+                "Comm",
+                "Réseaux sociaux"
             ],
             "link" : "https://youtube.com",
             "picture": "projet.jpg"

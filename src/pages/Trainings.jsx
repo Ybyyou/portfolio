@@ -2,7 +2,7 @@
 export default function Trainings({trainings}) {
     return (
         <>
-            <h2 id="training" className="mb-11">Formation</h2>
+            <h2 id="training" className="mb-11">Formation / Certifications</h2>
 
             <div className="flex flex-col justify-start">
                     {trainings.map(

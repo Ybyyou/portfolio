@@ -10,7 +10,7 @@ export default function Bio({bio, portrait}) {
                     <img src={portrait} alt="portrait" />
                 </figure>
                 <p className="inline text-center md:text-left lg:w-3/4">
-                    {bio.length > 800 ? bio.substring(0,800) + "..." : bio }
+                    {bio.length > 1700 ? bio.substring(0,1700) + "..." : bio }
                 </p>
             </div>
         </>
