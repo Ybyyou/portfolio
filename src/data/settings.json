@@ -44,8 +44,8 @@
         {
             "title": "Sonolux",
             "context": "Le service de néonatologie de l'hôpital de Saint Brieuc est reconnu comme un acteur d'excellence au sein de la commission de réflexion et d'évaluation de l'environnement des nouveaux nées soutenue par des programmes qui vise à protéger le développement cérébral des enfants nés avant terme en limitant le stress lié à leur environnement et aux soins, tout en redonnant à leurs parents une place prépondérante à leurs côtés pendant l'hospitalisation .“Nuissances sonores en réanimation néonatale : impact d'un outil de monitorage”, la captation, la mesure et le traitement d'un signal sonore et/ou lumineux nécessitent la conception d'un outil adapté capable d'offrir une mesure fiable des données.",
-            "missions" : [" Conception, fabrication et mise en fonctionnement d'un outil de captation et d'analyse de signaux sonores et lumineux"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "missions" : [" Conception, fabrication et mise en fonctionnement d'un outil de captation et d'analyse de signaux sonores et lumineux."],
+            "outputs" :  ["Conception 3D intégrant l'éléctronique.", "Outil de mesure de l'intensité lumineuse et sonore."],
             "skills": [
                 "Anglais",
                 "Code arduino",
@@ -55,43 +55,57 @@
             "picture": "sonolux.jpg"
         },
         {
-            "title": "Concevoir une recommandation de communication numérique ",
-            "context": "En tant que chargés de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.    ",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Recommandation de communication numérique ",
+            "context": "L'objectif premier du festival est de mettre en avant la créativité, l'inventivité et la maîtrise technologique des étudiantes et étudiants du BUT MMI. C'est également un événement festif qui clôture l'année en beauté et permettra à chaque étudiant·e de prendre la mesure du travail réalisé, ou du chemin restant à parcourir. Le festival permettra de faire valoir les talents des différentes années de BUT MMI.Dossier présentant l'audit et la recommandation marketing. En tant que chargés de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.",
+            "missions" : ["Concevoir une recommandation marketing.", "Établir un plan de communication et un planning d'actions.","Rédiger une charte éditoriale.","Produire des prototypes pour une communication digitale.","Mettre en forme et présenter à l'écrit et à l'oral les choix stratégiques envisagés."],
+            "outputs" :  ["Dossier présentant l'audit et la recommandation marketing.", "Dossier présentant le plan de communication."],
             "skills": [
                 "Marketing",
-                "Comm"
-            ],
-            "link" : "https://youtube.com",
-            "picture": "alwestfest.jpg"
-        },
-        {
-            "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Concevoir une recommandation marketing"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "skills": [
-                "Marketing",
-                "Comm",
+                "Comm", 
                 "Réseaux sociaux"
             ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "link" : "livrable.pdf",
+            "picture": "alwestfest.png"
         },
         {
-            "title": "Project 4 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Productions musicales",
+            "context": "Passionné depuis petit par la musique (hip-hop, rap, pop, etc.), je me suis lancé dans la production / beatmaking / composition / mixage et mastering d'instrumentales grâce au logiciel FL Studio. Je me suis lancé sur YouTube avec une identitée propre à moi, SENYU, afin de partager mes créations et de collaborer avec des artistes.",
+            "missions" : ["Composer avec des VST (Virtual Studio Technology).", "Composer des rythmes.", "Structurer les deux compositions.","Mixer et masteriser l'instrumentale."],
+            "outputs" :  ["Instrumentale complète (composée, mixée, etc.).", "Vidéo avec effet pour YouTube."],
             "skills": [
-                "Anglais",
-                "Graphisme",
-                "Écriture multimédia"
+                "Audiovisuel",
+                "Réseaux sociaux",
+                "Anglais"
+            ],
+            "link" : "https://www.youtube.com/@senyu.0",
+            "picture": "flstudio.png"
+        },
+        {
+            "title": "Contenu audio et video",
+            "context": "En équipes de 4, nous devions réaliser, à partir d'un pitch imposé, un court métrage dont j'étais l'acteur et réalisateur avec du matériel audiovisuel professionel (micro, caméra, mixette, etc.). Post tournage, j'ai du monter le film à l'aide de DaVinci Resolve avec du mixage et de l'étalonnage.",
+            "missions" : ["Écriture de l'histoire, du dénouement et de la chute", "Tournage du court métrage","Montage du court métrage"],
+            "outputs" :  ["Dossier de production (Écriture, personnage, etc.", "Film V1","Film Version Finale avec voix off en français et anglais."],
+            "skills": [
+                "Écriture multimédia",
+                "Audiovisuel",
+                "Anglais"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "tostop.png"
+        },
+        {
+            "title": "Site web Pokémon",
+            "context": "Ce projet a pour but de développer une application Web simulant la capture de Pokemon. Elle permettra la gestion d'une collection de Pokémon par un dresseur unique. Le site peut : - Ajouter des Pokemon à la collection - Retirer des Pokemon à la collection - Afficher le détail des caractéristiques d'un Pokemon particulier de la collection. L'application a un design original et adapté, et son ergonomie est pensée.",
+            "missions" : ["Designer la page sur Figma","Structurer la page avec du HTML.", "Styliser la page avec du CSS.", "Ajouter des intéractivité avec du JavaScript."],
+            "outputs" :  ["Dossier design (pour le client).", "Application Web au maximum fonctionnel."],
+            "skills": [
+                "Dev Web",
+                "UI/UX"
+            ],
+            "link" : "https://www.youtube.com/@senyu.0",
+            "picture": "pokemon.png"
         }
+        
     ],
     
     "skills": [
