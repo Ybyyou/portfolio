@@ -3,8 +3,8 @@
     "lastname": "Amar",
     "firstname": "Younès",
     "portrait" : "photo.jpg",
-    "intro": "Appuie sur En savoir plus pour découvrir mon parcours, mes compétences et mes projets.",
-    "biography": "Salut 👋, J'ai décidé de morienter vers le BUT Métiers du Multimédia et de l'Internet après mon bac STI2D option système d'information et numérique. J'ai toujours aimé la créativité, la réflexion et les sciences mais plus précisément les domaines de la musique, les voyages et le sport. Grâce à ma formation je touche à de nombreux domaines, allant du développement Web à la communication et le marketing, en passant aussi par le graphisme et l'audiovisuel. Mon expérience, combinée à mon envie d'apprendre et de découvrir de nouvelles choses chaque jour, m'aide à développer mes connaissances dans différents domaines. En un temps relativement court, j'ai su maîtriser des outils variés. Les suites Affinity et Adobe pour des créations graphiques comme des affiches de festivals ou encore des projets personnels. FL Studio pour la production musicale afin de développer mon oreille musicale et développer ma passion en collaborant avec des artistes. Gantt Project pour la gestion de projets comme la réalisation d'une recommandation numérique ou encore un audit de communication numérique. DaVinci Resolve pour le montage comme des courts métrages ou encore un interview. En parallèle, je me suis perfectionné dans la programmation web avec HTML, CSS et JavaScript en effectuant des projets de sites web dont ce portfolio. Cette curiosité constante, ajoutée à ma détermination, me motive à donner le meilleur de moi-même pour atteindre mes objectifs, que ce soit dans mes études ou mes projets personnels. Ouvert, dynamique et prêt à relever de nouveaux défis. Je suis Younès, l'unique personne qui pourra vous suivre dans vos projets ! ",
+    "intro": "Appuyez sur 'En savoir plus' pour découvrir mon parcours, mes projets et mes compétences.",
+    "biography": "Salut 👋, J'ai décidé de m'orienter vers le BUT Métiers du Multimédia et de l'Internet après mon bac STI2D option système d'information et numérique. J'ai toujours aimé la créativité, la réflexion et les sciences mais plus précisément les domaines de la musique, les voyages et le sport. Grâce à ma formation je touche à de nombreux domaines, allant du développement Web à la communication et le marketing, en passant aussi par le graphisme et l'audiovisuel. Mon expérience, combinée à mon envie d'apprendre et de découvrir de nouvelles choses chaque jour, m'aide à développer mes connaissances dans différents domaines. Ouvert, dynamique et prêt à relever de nouveaux défis. Je suis Younès, l'unique personne qui pourra vous suivre dans vos projets !",
     "cv" : "CV.pdf",
     "trainings": [
         {
@@ -15,17 +15,17 @@
         },
         {
             "name" : "Permis B",
-            "school" : "Lamballe Abyss Auto École (22)",
+            "school" : "Abyss Auto École de Lamballe",
             "start" : 2024
         },
         {
-            "name" : "Bac STI2D, option Système d'Information et Numérique",
-            "school" : "Lycée Sacré Coeur (22)",
+            "name" : "Baccalauréat STI2D, option Système d'Information et Numérique",
+            "school" : "Lycée Sacré Coeur de Saint Brieuc",
             "start" : 2023
         },
         {
             "name" : "Attestation SecNumAcadémie",
-            "school" : "domicile (22)",
+            "school" : "domicile",
             "start" : 2023 
         }
     ],
@@ -33,6 +33,7 @@
         "Production musicale",
         "Création visuelle",
         "Développement Web",
+        "Audiovisuel",
         "Photographie",
         "Voyages",
         "Sport",
@@ -56,7 +57,7 @@
         },
         {
             "title": "Recommandation de communication numérique ",
-            "context": "L'objectif premier du festival est de mettre en avant la créativité, l'inventivité et la maîtrise technologique des étudiantes et étudiants du BUT MMI. C'est également un événement festif qui clôture l'année en beauté et permettra à chaque étudiant·e de prendre la mesure du travail réalisé, ou du chemin restant à parcourir. Le festival permettra de faire valoir les talents des différentes années de BUT MMI.Dossier présentant l'audit et la recommandation marketing. En tant que chargés de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.",
+            "context": "L'objectif premier du festival est de mettre en avant la créativité, l'inventivité et la maîtrise technologique des étudiantes et étudiants du BUT MMI. C'est également un événement festif qui clôture l'année en beauté et permettra à chaque étudiant·e de prendre la mesure du travail réalisé, ou du chemin restant à parcourir. Le festival permettra de faire valoir les talents des différentes années de BUT MMI. Dossier présentant l'audit et la recommandation marketing. En tant que chargé de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.",
             "missions" : ["Concevoir une recommandation marketing.", "Établir un plan de communication et un planning d'actions.","Rédiger une charte éditoriale.","Produire des prototypes pour une communication digitale.","Mettre en forme et présenter à l'écrit et à l'oral les choix stratégiques envisagés."],
             "outputs" :  ["Dossier présentant l'audit et la recommandation marketing.", "Dossier présentant le plan de communication."],
             "skills": [
@@ -69,7 +70,7 @@
         },
         {
             "title": "Productions musicales",
-            "context": "Passionné depuis petit par la musique (hip-hop, rap, pop, etc.), je me suis lancé dans la production / beatmaking / composition / mixage et mastering d'instrumentales grâce au logiciel FL Studio. Je me suis lancé sur YouTube avec une identitée propre à moi, SENYU, afin de partager mes créations et de collaborer avec des artistes.",
+            "context": "Depuis mon enfance, la musique a toujours occupé une place importante dans ma vie. Que ce soit à travers le hip-hop, le rap ou la pop, elle m'a inspiré à explorer cet univers créatif. Avec le temps, ma passion m'a poussé à passer de simple auditeur à véritable acteur dans la production musicale. J'ai décidé de me lancer dans le beatmaking, la composition, ainsi que le mixage et mastering d'instrumentales, un chemin que j'ai emprunté en autodidacte grâce au logiciel FL Studio. Pour donner vie à ma vision et partager mon univers musical, j'ai créé mon identité d'artiste : SENYU. Sous ce nom, j'ai commencé à publier mes créations sur YouTube, où je partage mes instrumentales avec une esthétique et une empreinte sonore qui me sont propres. Mon objectif est clair : non seulement faire découvrir ma musique à un large public, mais aussi créer des opportunités de collaboration avec d'autres artistes passionnés.",
             "missions" : ["Composer avec des VST (Virtual Studio Technology).", "Composer des rythmes.", "Structurer les deux compositions.","Mixer et masteriser l'instrumentale."],
             "outputs" :  ["Instrumentale complète (composée, mixée, etc.).", "Vidéo avec effet pour YouTube."],
             "skills": [
@@ -82,59 +83,81 @@
         },
         {
             "title": "Contenu audio et video",
-            "context": "En équipes de 4, nous devions réaliser, à partir d'un pitch imposé, un court métrage dont j'étais l'acteur et réalisateur avec du matériel audiovisuel professionel (micro, caméra, mixette, etc.). Post tournage, j'ai du monter le film à l'aide de DaVinci Resolve avec du mixage et de l'étalonnage.",
-            "missions" : ["Écriture de l'histoire, du dénouement et de la chute", "Tournage du court métrage","Montage du court métrage"],
-            "outputs" :  ["Dossier de production (Écriture, personnage, etc.", "Film V1","Film Version Finale avec voix off en français et anglais."],
+            "context": "En équipe de quatre, nous avons eu pour mission de réaliser un court métrage à partir d'un pitch imposé, un défi qui m'a permis d'endosser les rôles d'acteur et de réalisateur. Grâce à du matériel audiovisuel professionnel, incluant micro, caméra et mixette, nous avons mené à bien le tournage en veillant à la qualité technique et artistique des prises. Après le tournage, j'ai pris en charge le montage du film en utilisant DaVinci Resolve, où j'ai également réalisé le mixage sonore et l'étalonnage pour assurer une finition soignée et professionnelle. Cette expérience m'a offert une immersion complète dans le processus de création cinématographique, de la préparation au produit final.",
+            "missions" : ["Écriture de l'histoire, du dénouement et de la chute.", "Tournage du court métrage.","Montage du court métrage."],
+            "outputs" :  ["Dossier de production (Écriture, personnage, etc.).", "Film V1","Film Version Finale avec voix off en français et anglais."],
             "skills": [
                 "Écriture multimédia",
                 "Audiovisuel",
                 "Anglais"
             ],
-            "link" : "https://youtube.com",
+            "link" : "livrable.pdf",
             "picture": "tostop.png"
         },
         {
             "title": "Site web Pokémon",
-            "context": "Ce projet a pour but de développer une application Web simulant la capture de Pokemon. Elle permettra la gestion d'une collection de Pokémon par un dresseur unique. Le site peut : - Ajouter des Pokemon à la collection - Retirer des Pokemon à la collection - Afficher le détail des caractéristiques d'un Pokemon particulier de la collection. L'application a un design original et adapté, et son ergonomie est pensée.",
-            "missions" : ["Designer la page sur Figma","Structurer la page avec du HTML.", "Styliser la page avec du CSS.", "Ajouter des intéractivité avec du JavaScript."],
+            "context": "Ce projet a pour ambition de concevoir une application web immersive qui simule la capture et la gestion d'une collection de Pokémon par un dresseur unique. Grâce à cette plateforme, les utilisateurs pourront enrichir leur collection en ajoutant ou retirant des Pokémon, tout en explorant les détails complets des caractéristiques de chaque créature, comme ses types, ses attaques ou ses évolutions. Chaque élément de l'application, qu'il s'agisse du design ou de l'expérience utilisateur, est pensé pour offrir une immersion totale dans l'univers Pokémon, avec une interface moderne, intuitive et visuellement attractive. Outre la gestion de la collection, le projet intègre des fonctionnalités interactives et un contenu original pour rendre l'expérience engageante et accessible à tous. Cette application s'appuie sur une ergonomie optimisée et un style graphique unique qui fusionne l'essence de Pokémon avec une touche d'innovation pour captiver les passionnés comme les nouveaux venus.",
+            "missions" : ["Designer la page sur Figma.","Structurer la page avec du HTML.", "Styliser la page avec du CSS.", "Ajouter des intéractivité avec du JavaScript."],
             "outputs" :  ["Dossier design (pour le client).", "Application Web au maximum fonctionnel."],
             "skills": [
                 "Dev Web",
                 "UI/UX"
             ],
-            "link" : "https://www.youtube.com/@senyu.0",
+            "link" : "livrable.pdf",
             "picture": "pokemon.png"
+        },
+        {
+            "title": "Concept d'un réveil du futur",
+            "context": "Le projet consiste à concevoir comme dit dans le titre un réveil du futur dans le cadre de Fabrik ta pépite, mais comment ? Tout simplement grâce à une analyse du sommeil. Le reveil récupère des informations sonores et sensoriels durant la nuit grâce à des capteurs, et conclus donc un coucher et un réveil plus optimal pour mieux dormir et mieux se réveiller. Le nom de ce réveil est : Zen'it. Il est principalement conçu pour les étudiants ayant du mal à s'endormir ou se réveiller, ou des problèmes durant la nuit.",
+            "missions" : ["Innover.", "Réaliser des personas.","Réaliser le business plan et model.", "Réaliser un prototype.", "Présenter le projet."],
+            "outputs" :  ["Dossier écrit.", "Prototype.","Présentation orale."],
+            "skills": [
+                "Entrepreneuriat",
+                "Gestion de projet",
+                "Comm"
+            ],
+            "link" : "livrable.pdf",
+            "picture": "zenit.png"
         }
         
     ],
     
     "skills": [
         {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Création audio et visuel",
+            "description": "Oeuvre numérique concrète qui peut être utilisée à des fins de documentation, d'inspiration ou d'adaptation.",
             "tools": [
-                "Lorem",
-                "Ipsum"
+                "Suite Adobe et Affinity",
+                "FL Studio",
+                "DaVinci Resolve",
+                "Figma."
             ],
-            "level": 3
+            "level": 5
         },
         {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Gestion de projet",
+            "description": "Organiser le déroulement d'un projet de A à Z, de sa phase de conception à sa phase finale.",
             "tools": [
-                "Lorem",
-                "Ipsum"
+                "Gantt Project",
+                "SWOT",
+                "PESTEL",
+                "Business Model",
+                "Business Plan."
             ],
             "level": 4
         },
         {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Développement Web",
+            "description": "Conception de sites internet.",
             "tools": [
-                "Lorem",
-                "Ipsum"
+                "HTML 5",
+                "CSS 3",
+                "JavaScript",
+                "PHP",
+                "Bulma",
+                "Gestionnaires de version."
             ],
-            "level": 5
+            "level": 4
         }
     ],
     "contacts": [
@@ -142,10 +165,13 @@
         "url" : "https://instagram.com",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
-        "url" : "https://linkedin.com",
+        "url" : "https://www.linkedin.com/in/youn%C3%A8s-amar-47b637229/",
         "icon" : "linkedin.svg"},
         {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
-        "icon" : "mail.svg"}
+        "url" : "mailto:y.by.you22@gmail.com",
+        "icon" : "mail.svg"},
+        {"name" : "Téléphone : 06.13.88.53.49",
+        "url" : "",
+        "icon" : ""}
     ]
 }
