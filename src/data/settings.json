@@ -3,13 +3,13 @@
     "lastname": "Amar",
     "firstname": "Younès",
     "portrait" : "photo.jpg",
-    "intro": "Appuyez sur 'En savoir plus' pour découvrir mon parcours, mes projets et mes compétences.",
-    "biography": "Salut 👋, J'ai décidé de m'orienter vers le BUT Métiers du Multimédia et de l'Internet après mon bac STI2D option système d'information et numérique. J'ai toujours aimé la créativité, la réflexion et les sciences mais plus précisément les domaines de la musique, les voyages et le sport. Grâce à ma formation je touche à de nombreux domaines, allant du développement Web à la communication et le marketing, en passant aussi par le graphisme et l'audiovisuel. Mon expérience, combinée à mon envie d'apprendre et de découvrir de nouvelles choses chaque jour, m'aide à développer mes connaissances dans différents domaines. Ouvert, dynamique et prêt à relever de nouveaux défis. Je suis Younès, l'unique personne qui pourra vous suivre dans vos projets !",
+    "intro": "Venez découvrir mon univers, mes projets et mes compétences !",
+    "biography": "Salut 👋, Moi, c'est Younès, étudiant en BUT Métiers du Multimédia et de l'Internet. Débordant d'idées et de créativité, je bouillonne d'énergie. Que ce soit dans mes productions musicales, où je mélange passion et rythme, ou dans des projets où je bouscule les codes, je suis toujours prêt à passer à l'action et à voyager sur de nouveaux horizons. La preuve, j'ai intégré le parcours Fabrik ta pépite en entreprenant et innovant un réveil du futur. Mon parcours, c'est aussi ma double culture descendant de mon grand-père marocain. Ainsi, j'ai appris à m'adapter à des environnements différents dans les domaines professionnels, académiques et culturels, en développant des compétences telles que la flexibilité, la communication et la résolution de problèmes. C'est cette richesse et cette diversité qui m'aide à innover, que ce soit en graphisme, en développement web ou en audiovisuel. Toujours prêt à relever des défis, je suis motivé par la collaboration et l'idée de transformer chaque projet en réussite. Si vous voulez gagner les Play-offs NBA, laissez-moi rejoindre votre équipe !",
     "cv" : "CV.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
-            "school" : "IUT de Lannion, Université de Rennes",
+            "school" : "l'IUT de Lannion, Université de Rennes. Formation touchant le développement Web, la communication et le marketing, le graphisme et l'audiovisuel. ",
             "start" : 2024,
             "end" : 2027
         },
@@ -19,32 +19,31 @@
             "start" : 2024
         },
         {
-            "name" : "Baccalauréat STI2D, option Système d'Information et Numérique",
-            "school" : "Lycée Sacré Coeur de Saint Brieuc",
+            "name" : "Baccalauréat STI2D",
+            "school" : "Lycée Sacré Coeur de Saint Brieuc. Option Système d'Information et Numérique",
             "start" : 2023
         },
         {
             "name" : "Attestation SecNumAcadémie",
-            "school" : "domicile",
+            "school" : "domicile. Formation en ligne sur la cybersécurité.",
             "start" : 2023 
         }
     ],
     "interests": [
-        "Production musicale",
-        "Création visuelle",
-        "Développement Web",
-        "Audiovisuel",
-        "Photographie",
-        "Voyages",
-        "Sport",
-        "Sciences",
-        "Jeux vidéo"
-        
+        "Production musicale : beatmaking, composition, mixage.",
+        "Création visuelle : graphisme, montage vidéo, photographie.",
+        "Développement Web : HTML, CSS, JavaScript, PHP.",
+        "Audiovisuel : écriture, tournage, montage.",
+        "Photographie : portrait, paysage.",
+        "Voyages : découverte de nouvelles cultures.",
+        "Sport : basket-ball, musculation, volleyball, course à pied.",
+        "Sciences : mathématiques, espace, corps humain, psychologie.",
+        "Jeux vidéo : stratégie, aventure, action, simulation."
     ],
     "projects": [
         {
             "title": "Sonolux",
-            "context": "Le service de néonatologie de l'hôpital de Saint Brieuc est reconnu comme un acteur d'excellence au sein de la commission de réflexion et d'évaluation de l'environnement des nouveaux nées soutenue par des programmes qui vise à protéger le développement cérébral des enfants nés avant terme en limitant le stress lié à leur environnement et aux soins, tout en redonnant à leurs parents une place prépondérante à leurs côtés pendant l'hospitalisation .“Nuissances sonores en réanimation néonatale : impact d'un outil de monitorage”, la captation, la mesure et le traitement d'un signal sonore et/ou lumineux nécessitent la conception d'un outil adapté capable d'offrir une mesure fiable des données.",
+            "context": "Le service de néonatologie de Saint-Brieuc est reconnu pour son excellence dans la protection du développement des prématurés, en limitant le stress et en favorisant la présence des parents. Le projet 'Nuisances sonores en réanimation néonatale' consiste à concevoir un outil de mesure fiable des signaux sonores et lumineux pour améliorer leur environnement.",
             "missions" : [" Conception, fabrication et mise en fonctionnement d'un outil de captation et d'analyse de signaux sonores et lumineux."],
             "outputs" :  ["Conception 3D intégrant l'éléctronique.", "Outil de mesure de l'intensité lumineuse et sonore."],
             "skills": [
@@ -57,7 +56,7 @@
         },
         {
             "title": "Recommandation de communication numérique ",
-            "context": "L'objectif premier du festival est de mettre en avant la créativité, l'inventivité et la maîtrise technologique des étudiantes et étudiants du BUT MMI. C'est également un événement festif qui clôture l'année en beauté et permettra à chaque étudiant·e de prendre la mesure du travail réalisé, ou du chemin restant à parcourir. Le festival permettra de faire valoir les talents des différentes années de BUT MMI. Dossier présentant l'audit et la recommandation marketing. En tant que chargé de communication, en se basant sur un audit, je devais conçevoir une recommandation marketing et un plan de communication pour accompagner la sortie ou le repositionnement pour le prochain festival À l'West Fest de L'IUT de Lannion.",
+            "context": "Le festival À l'West Fest met en avant la créativité et la maîtrise technologique des étudiants du BUT MMI, tout en clôturant l'année de manière festive. En tant que chargé de communication, j'ai conçu une recommandation marketing, un plan de communication, un audit, une charte éditoriale et un communiqué de presse.",
             "missions" : ["Concevoir une recommandation marketing.", "Établir un plan de communication et un planning d'actions.","Rédiger une charte éditoriale.","Produire des prototypes pour une communication digitale.","Mettre en forme et présenter à l'écrit et à l'oral les choix stratégiques envisagés."],
             "outputs" :  ["Dossier présentant l'audit et la recommandation marketing.", "Dossier présentant le plan de communication."],
             "skills": [
@@ -70,7 +69,7 @@
         },
         {
             "title": "Productions musicales",
-            "context": "Depuis mon enfance, la musique a toujours occupé une place importante dans ma vie. Que ce soit à travers le hip-hop, le rap ou la pop, elle m'a inspiré à explorer cet univers créatif. Avec le temps, ma passion m'a poussé à passer de simple auditeur à véritable acteur dans la production musicale. J'ai décidé de me lancer dans le beatmaking, la composition, ainsi que le mixage et mastering d'instrumentales, un chemin que j'ai emprunté en autodidacte grâce au logiciel FL Studio. Pour donner vie à ma vision et partager mon univers musical, j'ai créé mon identité d'artiste : SENYU. Sous ce nom, j'ai commencé à publier mes créations sur YouTube, où je partage mes instrumentales avec une esthétique et une empreinte sonore qui me sont propres. Mon objectif est clair : non seulement faire découvrir ma musique à un large public, mais aussi créer des opportunités de collaboration avec d'autres artistes passionnés.",
+            "context": "Depuis mon enfance, la musique, notamment le hip-hop et le rap, m'a poussé à passer du rôle d'auditeur à celui de créateur. En autodidacte, j'ai appris le beatmaking, la composition et le mixage avec FL Studio, sous le nom de SENYU. Mon objectif est de partager mon univers musical et de créer des opportunités de collaboration avec d'autres artistes.",
             "missions" : ["Composer avec des VST (Virtual Studio Technology).", "Composer des rythmes.", "Structurer les deux compositions.","Mixer et masteriser l'instrumentale."],
             "outputs" :  ["Instrumentale complète (composée, mixée, etc.).", "Vidéo avec effet pour YouTube."],
             "skills": [
@@ -83,7 +82,7 @@
         },
         {
             "title": "Contenu audio et video",
-            "context": "En équipe de quatre, nous avons eu pour mission de réaliser un court métrage à partir d'un pitch imposé, un défi qui m'a permis d'endosser les rôles d'acteur et de réalisateur. Grâce à du matériel audiovisuel professionnel, incluant micro, caméra et mixette, nous avons mené à bien le tournage en veillant à la qualité technique et artistique des prises. Après le tournage, j'ai pris en charge le montage du film en utilisant DaVinci Resolve, où j'ai également réalisé le mixage sonore et l'étalonnage pour assurer une finition soignée et professionnelle. Cette expérience m'a offert une immersion complète dans le processus de création cinématographique, de la préparation au produit final.",
+            "context": "Nous avons réalisé, en équipe de 4, un court-métrage dont j'étais l'acteur et le réalisateur, en utilisant du matériel audiovisuel professionnel. Après le tournage, j'ai pris en charge le montage sur DaVinci Resolve, avec mixage sonore et étalonnage. Cette expérience m'a plongé dans l'ensemble du processus de création cinématographique, du tournage à la post-production.",
             "missions" : ["Écriture de l'histoire, du dénouement et de la chute.", "Tournage du court métrage.","Montage du court métrage."],
             "outputs" :  ["Dossier de production (Écriture, personnage, etc.).", "Film V1","Film Version Finale avec voix off en français et anglais."],
             "skills": [
@@ -96,7 +95,7 @@
         },
         {
             "title": "Site web Pokémon",
-            "context": "Ce projet a pour ambition de concevoir une application web immersive qui simule la capture et la gestion d'une collection de Pokémon par un dresseur unique. Grâce à cette plateforme, les utilisateurs pourront enrichir leur collection en ajoutant ou retirant des Pokémon, tout en explorant les détails complets des caractéristiques de chaque créature, comme ses types, ses attaques ou ses évolutions. Chaque élément de l'application, qu'il s'agisse du design ou de l'expérience utilisateur, est pensé pour offrir une immersion totale dans l'univers Pokémon, avec une interface moderne, intuitive et visuellement attractive. Outre la gestion de la collection, le projet intègre des fonctionnalités interactives et un contenu original pour rendre l'expérience engageante et accessible à tous. Cette application s'appuie sur une ergonomie optimisée et un style graphique unique qui fusionne l'essence de Pokémon avec une touche d'innovation pour captiver les passionnés comme les nouveaux venus.",
+            "context": "Ce projet vise à créer une application web immersive pour gérer une collection de Pokémon, avec une interface moderne et intuitive. Les utilisateurs pourront ajouter, retirer et explorer les détails des Pokémon, tout en profitant d'un design attractif et d'une expérience interactive. L'application allie ergonomie, innovation et l'univers Pokémon pour captiver les passionnés et les débutants.",
             "missions" : ["Designer la page sur Figma.","Structurer la page avec du HTML.", "Styliser la page avec du CSS.", "Ajouter des intéractivité avec du JavaScript."],
             "outputs" :  ["Dossier design (pour le client).", "Application Web au maximum fonctionnel."],
             "skills": [
@@ -108,7 +107,7 @@
         },
         {
             "title": "Concept d'un réveil du futur",
-            "context": "Le projet consiste à concevoir comme dit dans le titre un réveil du futur dans le cadre de Fabrik ta pépite, mais comment ? Tout simplement grâce à une analyse du sommeil. Le reveil récupère des informations sonores et sensoriels durant la nuit grâce à des capteurs, et conclus donc un coucher et un réveil plus optimal pour mieux dormir et mieux se réveiller. Le nom de ce réveil est : Zen'it. Il est principalement conçu pour les étudiants ayant du mal à s'endormir ou se réveiller, ou des problèmes durant la nuit.",
+            "context": "Le projet Zen'it consiste en un réveil du futur conçu pour améliorer le sommeil des étudiants. Grâce à des capteurs, il analyse les informations sonores et sensorielles pour optimiser l'endormissement et le réveil. Il cible principalement les étudiants ayant des difficultés à s'endormir ou à se réveiller.",
             "missions" : ["Innover.", "Réaliser des personas.","Réaliser le business plan et model.", "Réaliser un prototype.", "Présenter le projet."],
             "outputs" :  ["Dossier écrit.", "Prototype.","Présentation orale."],
             "skills": [
